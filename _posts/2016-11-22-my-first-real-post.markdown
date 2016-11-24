@@ -9,6 +9,7 @@ I'm adding a link [there][google] and [there](http://www.google.com)
 
 Image test : ![test](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
+{{ site.url }}
 
 This image is stocked locally : ![issou]({{ site.url }}/assets/november-2016/1.png)
 
